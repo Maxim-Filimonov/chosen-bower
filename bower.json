@@ -6,7 +6,10 @@
     "Harvest"
   ],
   "description": "Chosen is a library for making long, unwieldy select boxes more friendly.",
-  "main": "chosen.jquery.js",
+  "main": [
+    "chosen.jquery.js",
+    "chosen.css"
+  ],
   "keywords": [
     "jquery",
     "select",
